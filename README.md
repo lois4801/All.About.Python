@@ -11,3 +11,10 @@ Although data wrangling is an essential part of preparing your data for use, the
 Enhances ease of access to data
 Faster time to insights
 Improved efficiency when it comes to data-driven decision making
+
+### Label encoding
+- is a technique used in machine learning and data analysis to convert categorical variables into numerical format. It is particularly useful when working with algorithms that require numerical input, as most machine learning models can only operate on numerical data. In this explanation, we’ll explore how label encoding works and how to implement it in Python.
+
+Let’s consider a simple example with a dataset containing information about different types of fruits, where the “Fruit” column has categorical values such as “Apple,” “Orange,” and “Banana.” Label encoding assigns a unique numerical label to each distinct category, transforming the categorical data into numerical representation.
+
+To perform label encoding in Python, we can use the scikit-learn library, which provides a range of preprocessing utilities, including the LabelEncoder class. https://www.mygreatlearning.com/blog/label-encoding-in-python/ 
