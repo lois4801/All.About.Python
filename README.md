@@ -1,4 +1,4 @@
-# All.About.Python
+# All.About.Python>> ML libraries
 Python Hacks, Data Analysis, Cleaning, Transformation, Wrangling/Munging, Modeling, Data Science, ML
 
 #NOTES:
@@ -11,6 +11,12 @@ Although data wrangling is an essential part of preparing your data for use, the
 Enhances ease of access to data
 Faster time to insights
 Improved efficiency when it comes to data-driven decision making
+
+### Scikit Learn
+- scikit-learn is a free, open-source machine learning library for the Python programming language. It provides a range of supervised and unsupervised learning algorithms in Python. The library is built on top of other widely used libraries such as NumPy, SciPy, and matplotlib 
+
+scikit-learn includes various classification, regression, clustering, and dimensionality reduction algorithms, and it is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy 1. It also provides tools for model selection, preprocessing, feature extraction, and more 
+
 
 ### Label encoding
 - is a technique used in machine learning and data analysis to convert categorical variables into numerical format. It is particularly useful when working with algorithms that require numerical input, as most machine learning models can only operate on numerical data. In this explanation, we’ll explore how label encoding works and how to implement it in Python.
