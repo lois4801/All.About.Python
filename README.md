@@ -1,7 +1,7 @@
 # All.About.Python>> ML libraries
 Python Hacks, Data Analysis, Cleaning, Transformation, Wrangling/Munging, Modeling, Data Science, ML
 
-#NOTES:
+# MY_NOTES:
 
 ### What is Data Wrangling?
 - Data wrangling, also referred to as data munging, is the process of converting and mapping data from one raw format into another. The purpose of this is to prepare the data in a way that makes it accessible for effective use further down the line. Not all data is created equal, therefore it’s important to organize and transform your data in a way that can be easily accessed by others
